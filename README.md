@@ -57,7 +57,7 @@ __Занятие 5 (12.10.2024). Telethon.__
 
 * [Презентация по Telethon](https://github.com/Bakibak/cryptoDS/blob/main/Презентации/5.%20Telethon.pdf)
 * [Условия задач по Telethon](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Задачи%20по%20Telethon.pdf)
-* [Решения задач по Telethon]()
+* [Решения задач по Telethon](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Telethon.ipynb)
   
 Обход капчи: <https://rucaptcha.com/lang/python>
 ```python
