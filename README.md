@@ -49,13 +49,16 @@ __Занятие 3-4 (28.09.2024). Selenium.__
 [запись_ч1, ](https://my.mts-link.ru/64661701/2064294388/record-new/672849968/record-file/1010921339)
 [запись_ч2](https://my.mts-link.ru/64661701/2064294388/record-new/672849968/record-file/1011339157)
 
-
 * [Презентация по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Презентации/4.%20Selenium.pdf)
 * [Условия задач по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Задачи%20по%20Selenium.pdf)
 * [Решения задач по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Selenium.ipynb)
 
 __Занятие 5 (12.10.2024). Telethon.__
 
+* [Презентация по Telethon](https://github.com/Bakibak/cryptoDS/blob/main/Презентации/5.%20Telethon.pdf)
+* [Условия задач по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Задачи%20по%20Telethon.pdf)
+* [Решения задач по Selenium]()
+  
 Обход капчи: <https://rucaptcha.com/lang/python>
 ```python
 from twocaptcha import TwoCaptcha
