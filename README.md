@@ -58,7 +58,7 @@ __Занятие 5 (12.10.2024). Telethon.__
 
 
 ```python
-<from twocaptcha import TwoCaptcha>
+from twocaptcha import TwoCaptcha
 ```
 
 ## Домашнее задание (1-ая часть проекта). Дедлайн: 04.11.2024 23.59.
