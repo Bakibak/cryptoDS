@@ -56,7 +56,7 @@ __Занятие 3-4 (28.09.2024). Selenium.__
 
 __Занятие 5 (12.10.2024). Telethon.__
 
-
+Обход капчи: <https://rucaptcha.com/lang/python>
 ```python
 from twocaptcha import TwoCaptcha
 ```
