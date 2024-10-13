@@ -56,8 +56,8 @@ __Занятие 3-4 (28.09.2024). Selenium.__
 __Занятие 5 (12.10.2024). Telethon.__
 
 * [Презентация по Telethon](https://github.com/Bakibak/cryptoDS/blob/main/Презентации/5.%20Telethon.pdf)
-* [Условия задач по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Задачи%20по%20Telethon.pdf)
-* [Решения задач по Selenium]()
+* [Условия задач по Telethon](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Задачи%20по%20Telethon.pdf)
+* [Решения задач по Telethon]()
   
 Обход капчи: <https://rucaptcha.com/lang/python>
 ```python
