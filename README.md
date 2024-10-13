@@ -36,13 +36,19 @@ __Занятие 1 (14.09.2024). DOM дерево. Requests.__
   
 __Занятие 2 (21.09.2024). BeautifulSoup.__
 
+[запись](https://my.mts-link.ru/64661701/2064294388/record-new/672849968/record-file/995598637)
+
 * [Презентация по BeautifulSoup](https://github.com/Bakibak/cryptoDS/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/3.%20BeautifulSoup.pdf)
 * [Условия задач по BeautifulSoup](https://github.com/Bakibak/cryptoDS/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BF%D0%BE%20BeautifulSoup.pdf)
 * [Решения задач по BeautifulSoup](https://github.com/Bakibak/cryptoDS/blob/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/BeautifulSoup.ipynb)
 
 __Занятие 3-4 (28.09.2024). Selenium.__
 
-ПАРЫ ПРОЙДУТ С __13.00 до 19.30.__ (ПЕРЕНОС ЗАНЯТИЯ С 05.10.)
+ПАРЫ С __13.00 до 19.30.__ (ПЕРЕНОС ЗАНЯТИЯ С 05.10.)
+
+[запись_ч1](https://my.mts-link.ru/64661701/2064294388/record-new/672849968/record-file/1010921339)
+[запись_ч2](https://my.mts-link.ru/64661701/2064294388/record-new/672849968/record-file/1011339157)
+
 
 * [Презентация по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Презентации/4.%20Selenium.pdf)
 * [Условия задач по Selenium](https://github.com/Bakibak/cryptoDS/blob/main/Практика/Задачи%20по%20Selenium.pdf)
