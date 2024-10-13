@@ -57,10 +57,9 @@ __Занятие 3-4 (28.09.2024). Selenium.__
 __Занятие 5 (12.10.2024). Telethon.__
 
 
-'
-from twocaptcha import TwoCaptcha
-'
-
+```python
+<from twocaptcha import TwoCaptcha>
+```
 
 ## Домашнее задание (1-ая часть проекта). Дедлайн: 04.11.2024 23.59.
 
