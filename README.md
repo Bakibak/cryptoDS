@@ -1,7 +1,9 @@
 # Анализ данных и моделирование рынка криптоактивов (АДиМРК).
 
 ## Информация по экзамену.
- __[запись от 06.12.2024]()__
+__[запись от 06.12.2024](https://my.mts-link.ru/64661701/2064294388/record-new/672849968/record-file/1183471237)__
+__[стат методы](https://github.com/Bakibak/cryptoDS/blob/main/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B.pdf)
+ 
 ## 
 
 [__Ведомость__](https://docs.google.com/spreadsheets/d/1tO1DFO9jWD3aA2TlmVm6v2GLN02-NqEyb9KLnYn7Dak/edit?usp=sharing)
