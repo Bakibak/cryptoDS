@@ -26,4 +26,3 @@ __Тестирование (13.09.2025).__
 
 * [Презентация по курсу]()
 * [Анкета слушателя](https://forms.gle/VLf7GxGtbME9T5437)
-* [Ссылка на тестирование по python](https://contest.yandex.ru/contest/45644/enter/)
