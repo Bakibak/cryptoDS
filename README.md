@@ -4,7 +4,7 @@
 
 Семинары проходят __с 13.00 по 16.00 по субботам.__
 
-[Презентация по курсу]()
+[Презентация курса](https://github.com/Bakibak/cryptoDS/blob/main/Intro%20%D0%BF%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D1%83%20%D0%90%D0%94%D0%B8%D0%9C%D0%A0%D0%9A.pdf)
 
 Анкета слушателя: [ссылка](https://forms.gle/VLf7GxGtbME9T5437)
 
