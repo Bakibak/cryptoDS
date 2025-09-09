@@ -10,6 +10,7 @@
 
 Онлайн-трансляция: __[ссылка](https://my.mts-link.ru/j/64661701/2825516389)__
 
+[__Ведомость__](https://docs.google.com/spreadsheets/d/1wj4x9ElmOeqAqCKcC6Lnpn59VlSKyG2AmUUcmKp1jZA/edit?usp=sharing)
 
 ### Формула оценивания
 Oценка за курс = 0.4 * _ДЗ_1_ + 0.4 * _ДЗ_2_ + 0.2 * _Защита проекта_
