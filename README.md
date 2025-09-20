@@ -30,6 +30,7 @@ __1 (13.09.2025). Онлайн-тестирование.__
 
 __2 (20.09.2025). HTML. Requests.__
 [Материалы](https://github.com/Bakibak/cryptoDS/tree/main/HTML_Requests)
+[запись](https://my.mts-link.ru/64661701/2825516389/record-new/2798761107/record-file/1506282799)
 
 __3 (27.09.2025). BeautifulSoup.__
 
