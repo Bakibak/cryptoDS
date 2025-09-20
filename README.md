@@ -26,6 +26,14 @@ Oценка за курс = 0.4 * _ДЗ_1_ + 0.4 * _ДЗ_2_ + 0.2 * _Защит�
 
 
 __1 (13.09.2025). Онлайн-тестирование.__
+[Ссылка на контест](https://contest.yandex.ru/contest/45644/enter/)
 
-* [Ссылка на контест](https://contest.yandex.ru/contest/45644/enter/)
+__2 (20.09.2025). HTML. Requests.__
+[Материалы](https://github.com/Bakibak/cryptoDS/tree/main/HTML_Requests)
 
+__3 (27.09.2025). BeautifulSoup.__
+
+__4 (04.10.2025). Selenium.__
+__5 (11.10.2025). Selenium.__
+
+__6 (18.10.2025). Telethon.__
