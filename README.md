@@ -37,6 +37,7 @@ __3 (27.09.2025). BeautifulSoup.__
 [запись](https://my.mts-link.ru/64661701/2825516389/record-new/2798761107/record-file/1518977337)
 
 __4-5 (04.10.2025, 11.10.2025). Selenium.__
+[Материалы](https://github.com/Bakibak/cryptoDS/tree/main/Selenium)
 
 __6 (18.10.2025). Telethon.__
 
