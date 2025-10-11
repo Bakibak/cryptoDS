@@ -43,6 +43,14 @@ __4-5 (04.10.2025, 11.10.2025). Selenium.__
 __6 (18.10.2025). Telethon.__
 [Материалы](https://github.com/Bakibak/cryptoDS/tree/main/Telethon)
 
+
+## Домашнее задание (1-ая часть проекта). Дедлайн: 04.11.2025 23.59.
+
+Выберите криптовалюту и сайт для парсинга. Впишите их напротив ФИО в [__ведомости__](https://docs.google.com/spreadsheets/d/1wj4x9ElmOeqAqCKcC6Lnpn59VlSKyG2AmUUcmKp1jZA/edit?usp=sharing). Внимание! Связки "криптовалюта-сайт" не должны повторяться между студентами.
+
+[Условие ДЗ  ](https://github.com/Bakibak/cryptoDS/blob/main/%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5%20%D0%94%D0%971.pdf)
+
+
 ### Предварительно:
 
 __06.12.2025 (ONLINE). Эконометрические методы. Описание проекта.__
