@@ -42,7 +42,7 @@ __4-5 (04.10.2025, 11.10.2025). Selenium.__
 
 __6 (18.10.2025). Telethon.__
 [Материалы](https://github.com/Bakibak/cryptoDS/tree/main/Telethon)
-
+[запись](https://my.mts-link.ru/64661701/2825516389/record-new/2798761107/record-file/1553865429)
 
 ## Домашнее задание (1-ая часть проекта). Дедлайн: 04.11.2025 23.59.
 
