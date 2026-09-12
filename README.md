@@ -22,7 +22,9 @@ Oценка за курс = 0.2 * _Тест_1_ + 0.2 * _ДЗ_1_ + 0.2 * _Тес�
 
 
 __1 (12.09.2025). Онлайн-тестирование.__
+
 [Ведомость с перезачетами](https://docs.google.com/spreadsheets/d/1MJI_Uf8GnB8fCfTIcxLW7CC2CKTzRKJofzHHB6sYIDM/edit?usp=sharing)
+
 [Ссылка на контест](https://contest.yandex.ru/contest/45644/enter/)
 
 __2 (19.09.2025). HTML. Requests.__
