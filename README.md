@@ -11,6 +11,7 @@
 
 Онлайн-трансляция: __[ссылка](https://my.mts-link.ru/j/64661701/2825516389)__
 
+[__Ведомость__](https://docs.google.com/spreadsheets/d/1MJI_Uf8GnB8fCfTIcxLW7CC2CKTzRKJofzHHB6sYIDM/edit?usp=sharing)
 
 ### Формула оценивания
 Oценка за курс = 0.2 * _Тест_1_ + 0.2 * _ДЗ_1_ + 0.2 * _Тест_2_ + 0.2 * _ДЗ_2_ + 0.2 * _Защита проекта_
@@ -21,6 +22,7 @@ Oценка за курс = 0.2 * _Тест_1_ + 0.2 * _ДЗ_1_ + 0.2 * _Тес�
 
 
 __1 (12.09.2025). Онлайн-тестирование.__
+[Ведомость с перезачетами](https://docs.google.com/spreadsheets/d/1MJI_Uf8GnB8fCfTIcxLW7CC2CKTzRKJofzHHB6sYIDM/edit?usp=sharing)
 
 __2 (19.09.2025). HTML. Requests.__
 
