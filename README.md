@@ -11,10 +11,10 @@
 
 Онлайн-трансляция: __[ссылка](https://my.mts-link.ru/j/64661701/2825516389)__
 
-[__Ведомость__](https://docs.google.com/spreadsheets/d/1MJI_Uf8GnB8fCfTIcxLW7CC2CKTzRKJofzHHB6sYIDM/edit?usp=sharing)
-
 ### Формула оценивания
 Oценка за курс = 0.2 * _Тест_1_ + 0.2 * _ДЗ_1_ + 0.2 * _Тест_2_ + 0.2 * _ДЗ_2_ + 0.2 * _Защита проекта_
+
+[__Ведомость__](https://docs.google.com/spreadsheets/d/1MJI_Uf8GnB8fCfTIcxLW7CC2CKTzRKJofzHHB6sYIDM/edit?usp=sharing)
 
 ## Блок 1. Cбор и анализ текстовых данных
 
@@ -22,12 +22,11 @@ Oценка за курс = 0.2 * _Тест_1_ + 0.2 * _ДЗ_1_ + 0.2 * _Тес�
 
 
 __1 (12.09.2025). Онлайн-тестирование.__
-
-[Ведомость с перезачетами](https://docs.google.com/spreadsheets/d/1MJI_Uf8GnB8fCfTIcxLW7CC2CKTzRKJofzHHB6sYIDM/edit?usp=sharing)
-
 [Ссылка на контест](https://contest.yandex.ru/contest/45644/enter/)
 
 __2 (19.09.2025). HTML. Requests.__
+[Материалы](https://github.com/Bakibak/cryptoDS/tree/main/HTML_Requests)
+[запись](https://my.mts-link.ru/64661701/2825516389/record-new/2798761107/record-file/2074061061)
 
 __3 (26.09.2025). BeautifulSoup.__ 
 
