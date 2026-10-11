@@ -21,20 +21,20 @@ Oценка за курс = 0.2 * _Тест_1_ + 0.2 * _ДЗ_1_ + 0.2 * _Тес�
 Семинарист [Бакланова Валерия Сергеевна](https://www.hse.ru/org/persons/190875825/), эл. почта: vbaklanova@hse.ru
 
 
-__1 (12.09.2025). Онлайн-тестирование.__
+__1 (12.09.2026). Онлайн-тестирование.__
 [Ссылка на контест](https://contest.yandex.ru/contest/45644/enter/)
 
-__2 (19.09.2025). HTML. Requests.__
+__2 (19.09.2026). HTML. Requests.__
 [Материалы](https://github.com/Bakibak/cryptoDS/tree/main/HTML_Requests)
 [запись](https://my.mts-link.ru/64661701/2825516389/record-new/2798761107/record-file/2074061061)
 
-__3 (26.09.2025). BeautifulSoup.__ 
+__3 (26.09.2026). BeautifulSoup.__ 
 [Материалы](https://github.com/Bakibak/cryptoDS/tree/main/BeautifulSoup)
 
-__4-5 (03.10.2025, 10.10.2025). Selenium.__
+__4-5 (03.10.2026, 10.10.2026). Selenium.__
 [Материалы](https://github.com/Bakibak/cryptoDS/tree/main/Selenium)
 
-__6 (17.10.2025). Проверочный тест.__
+__6 (17.10.2026). Проверочный тест.__
 
 ## Домашнее задание (1-ая часть проекта). Дедлайн: 04.11.2026 23.59.
 
