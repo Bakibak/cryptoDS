@@ -30,9 +30,12 @@ __2 (19.09.2026). HTML. Requests.__
 
 __3 (26.09.2026). BeautifulSoup.__ 
 [Материалы](https://github.com/Bakibak/cryptoDS/tree/main/BeautifulSoup)
+[запись](https://my.mts-link.ru/64661701/2825516389/record-new/2798761107/record-file/2085798993)
 
 __4-5 (03.10.2026, 10.10.2026). Selenium.__
 [Материалы](https://github.com/Bakibak/cryptoDS/tree/main/Selenium)
+[запись_1](https://my.mts-link.ru/64661701/2825516389/record-new/2798761107/record-file/2097658781)
+[запись_2](https://my.mts-link.ru/64661701/2825516389/record-new/2798761107/record-file/2109785457)
 
 __6 (17.10.2026). Проверочный тест.__
 
